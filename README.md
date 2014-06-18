@@ -1,7 +1,7 @@
 hmt-12E
 =======
 
-Team E
+Team E: CHS office 11
 
 Initial editing assignment: Venetus A, folio 156 verso.
 
