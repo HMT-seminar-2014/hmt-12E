@@ -28,7 +28,7 @@
 
 
 (Team E)
-This is an {image}[1] of the manuscript.
+This is an [image][1] of the manuscript.
 [1]:urn:cite:hmt:vaimg.VA046RN-0047@0.3544,0.5507,0.0701,0.0203
 
 
