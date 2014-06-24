@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+̈<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -28,7 +28,7 @@
         <l n="103">οἳ γάρ οἱ εἴσαντο διακριδὸν εἶναι ἄριστοι</l>
         <l n="104"> τῶν ἄλλων μετά γ᾽ αὐτόν· ὁ δ᾽ ἔπρεπε καὶ δια πάντων· </l>
         <l n="105">οἳ δ᾽ ἐπεὶ ἀλλήλους ἄραρον τυκτῇσι βόεσσι.</l>
-        <l n="106">βάν ῥ᾽ ΐθὺς <rs n="urn:cite:hmt:pers.pers66" type="ethnic">Δαναῶν</rs>
+        <l n="106">βάν ῥ᾽ ἰ̈θὺς <rs n="urn:cite:hmt:pers.pers66" type="ethnic">Δαναῶν</rs>
           λελιημένοι. οὐδ έτ᾽ ἔφαντο</l>
         <l n="107">σχήσεσθ᾽. ἂλλ᾽ ἐν νηυσὶ μελαίνῃσιν πεσέεσθαι·</l>
         <l n="108"> ἔνθ᾽ ἄλλοι <rs n="urn:cite:hmt:place.place6" type="ethnic">Τρῶες</rs>,
@@ -43,19 +43,19 @@
             <corr>σὺν</corr>
           </choice> αὐτοῖσιν πέλασεν νήεσσι θοῇσι·</l>
         <l n="113">νήπιος, οὐδ᾽ άρ᾽ ἔμελλε κακὰς ὑπο κῆρας ἀλύξας.</l>
-        <l n="114">πποισιν καὶ ὄχεσφιν ἀγαλλόμενος. παρὰ νηῶν</l>
-        <l n="115">ὰψ ἀπονοστήσειν προτὶ <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>
+        <l n="114">ἵ̈πποισιν καὶ ὄχεσφιν ἀγαλλόμενος. παρὰ νηῶν</l>
+        <l n="115">ὰψ ἀπονοστήσειν προτὶ <placeName n="urn:cite:hmt:place.place6"> Ἲ̈λιον</placeName>
           ἠνεμόεσσαν·</l>
         <l n="116">πρόσθεν γάρ μιν μοῖρα δυσώνυμον ἀμφεκάλυψεν</l>
-        <l n="117">ἔγχεϊ <persName n="urn:cite:hmt:pers.pers287">΅Ιδομενῆος</persName> ἀγαυοῦ
+        <l n="117">ἔγχεϊ <persName n="urn:cite:hmt:pers.pers287"> ᾽̈Ιδομενῆος</persName> ἀγαυοῦ
             <persName n="urn:cite:hmt:pers.pers287">Δευκαλίδᾱο</persName>·</l>
         <l n="118">εἴσατο γὰρ νηῶν ἐπ᾽ ἀριστερά, τῇ περ <rs n= "urn:cite:hmt:place.place96" type="ethnic">Ἀχαιοὶ</rs></l>
         <l n="119">ἐκ πεδίου, νίσοντο σὺν ἵπποισιν καὶ ὄχεσφι.</l>
-        <l n="120">τῇ ῥ᾽ ἵππους τε καὶ ἅρμα διήλασεν, οὐδὲ πύλῃσιν</l>
+        <l n="120">τῇ ῥ᾽ ἵ̈ππους τε καὶ ἅρμα διήλασεν, οὐδὲ πύλῃσιν</l>
         <l n="121">εὗρ᾽ ἐπικεκλιμένας σανίδας καὶ μακρὸν ὀχῆα·</l>
         <l n="122">ἂλλ᾽ ἀναπεπταμένας ἔχον ἀνέρες, εἴ τιν᾽ ἑταίρων</l>
         <l n="123">ἐκ πολέμου φεύγοντα, σαώσειαν μετα νῆας·</l>
-        <l n="124">τῇ ῥ᾽ ΐθὺς φρονέων ἵππους ἔχε, τοὶ δ᾽ ἅμ᾽ ἕποντο</l>
+        <l n="124">τῇ ῥ᾽ ἰ̈θὺς φρονέων ἵππους ἔχε, τοὶ δ᾽ ἅμ᾽ ἕποντο</l>
         <l n="125">ὀξέα κεκλήγοντες· ἔφαντο γὰρ οὐκ έτ᾽ <rs n= "urn:cite:hmt:place.place96" type="ethnic">Ἀχαιοὺς</rs></l>
 
 
