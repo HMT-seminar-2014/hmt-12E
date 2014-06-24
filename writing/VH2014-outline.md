@@ -31,6 +31,12 @@
 
 
 
+Example:  !{book 3. 219}[aidrei]
+
+
+[aidrei]: urn:cite:hmt:vaimg.VA046RN-0047@0.7798,0.556,0.0861,0.0203
+
+
 ## Other corrections ##
 
 (Team F)
