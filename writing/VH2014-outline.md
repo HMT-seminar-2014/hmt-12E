@@ -59,6 +59,44 @@ This is !{the correction of 3.219}[scholion1] being embedded.
 [scholion10]: urn:cite:hmt:vaimg.VA224RN-0395@0.8048,0.5642,0.0581,0.0165
 [text11]: urn:cite:hmt:vaimg.VA259RN-0430@0.4805,0.6664,0.0961,0.024
 [scholion11]: urn:cite:hmt:vaimg.VA259RN-0430@0.8208,0.6694,0.0681,0.0158
+[text12]: urn:cite:hmt:vaimg.VA027RN-0028@0.2377,0.4224,0.072,0.0131
+[scholion12]: urn:cite:hmt:vaimg.VA027RN-0028@0.8635,0.4287,0.0166,0.0131
+[text13]: urn:cite:hmt:vaimg.VA066VN-0568@0.7237,0.2727,0.0951,0.0225
+[scholion13]: urn:cite:hmt:vaimg.VA066VN-0568@0.1041,0.2675,0.0541,0.0225
+[text14]: urn:cite:hmt:vaimg.VA067RN-0068@0.5696,0.5342,0.026,0.018
+[scholion14]: urn:cite:hmt:vaimg.VA067RN-0068@0.8789,0.5372,0.018,0.018
+[text15]: urn:cite:hmt:vaimg.VA080RN-0081@0.2252,0.3298,0.022,0.0165
+[scholion15]: urn:cite:hmt:vaimg.VA080RN-0081@0.8378,0.3358,0.023,0.0165
+[Comparettischolion15]: urn:cite:hmt:compimg.Comparetti_080recto091@0.798,0.3347,0.021,0.0127
+[text16]: urn:cite:hmt:vaimg.VA085RN-0257@0.4755,0.3614,0.0631,0.0188
+[scholion16]: urn:cite:hmt:vaimg.VA085RN-0257@0.8619,0.3644,0.021,0.0188
+[Comparettischolion16]: urn:cite:hmt:compimg.Comparetti_085recto096@0.827,0.364,0.016,0.0173
+[text17]: urn:cite:hmt:vaimg.VA087RN-0259@0.2793,0.6409,0.035,0.0158
+[scholion17]: urn:cite:hmt:vaimg.VA087RN-0259@0.8458,0.6499,0.035,0.0158
+[text18]: urn:cite:hmt:vaimg.VA089VN-0592@0.5305,0.2562,0.1171,0.0188
+[Comparettischolion18]: urn:cite:hmt:compimg.Comparetti_089verso093@0.103,0.3187,0.046,0.0187
+[text19]: urn:cite:hmt:vaimg.VA090RN-0262@0.4505,0.2795,0.0691,0.0218
+[Comparettischolion19]: urn:cite:hmt:compimg.Comparetti_090recto101@0.793,0.2993,0.034,0.016
+[text20]: urn:cite:hmt:vaimg.VA093VN-0596@0.4685,0.3734,0.0741,0.0195
+[Comparettischolion20]: urn:cite:hmt:compimg.Comparetti_093verso097@0.109,0.4053,0.03,0.014
+[text21]: urn:cite:hmt:vaimg.VA095RN-0267@0.4214,0.5725,0.0611,0.0203
+[scholion21]: urn:cite:hmt:vaimg.VA095RN-0267@0.8669,0.5815,0.034,0.018
+[text22]: urn:cite:hmt:vaimg.VA273RN-0443@0.2963,0.2832,0.2202,0.0218
+[scholion22]: urn:cite:hmt:vaimg.VA273RN-0443@0.8418,0.2832,0.0991,0.0218
+[Comparettischolion22]: urn:cite:hmt:compimg.Comparetti_273recto286@0.799,0.306,0.085,0.024
+[text23]: urn:cite:hmt:vaimg.VA033RN-0034@0.3213,0.6476,0.0891,0.0218
+[text24]: urn:cite:hmt:vaimg.VA083VN-0586@0.5696,0.5229,0.0771,0.0218
+[scholion24]: urn:cite:hmt:vaimg.VA083VN-0586@0.0931,0.5402,0.02,0.0218
+[text25]: urn:cite:hmt:vaimg.VA014RN-0015@0.238,0.6763,0.0109,0.0137
+[text26]: urn:cite:hmt:vaimg.VA246RN-0417@0.1902,0.6664,0.045,0.0188
+[scholion26]: urn:cite:hmt:vaimg.VA246RN-0417@0.8629,0.6799,0.0551,0.0278
+[text27]: urn:cite:hmt:vaimg.VA248VN-0750@0.6667,0.4215,0.0601,0.0165
+[scholion27]: urn:cite:hmt:vaimg.VA248VN-0750@0.1481,0.4222,0.04,0.0278
+[Comparettischolion27]: urn:cite:hmt:compimg.Comparetti_248verso256@0.145,0.464,0.037,0.0213
+[text28]: urn:cite:hmt:vaimg.VA322RN-0492@0.1522,0.2622,0.3624,0.0195
+[scholion28]: urn:cite:hmt:vaimg.VA322RN-0492@0.8178,0.2524,0.0811,0.024
+[Comparettischolion28]: urn:cite:hmt:compimg.Comparetti_322recto336@0.808,0.292,0.074,0.0207
+
 
 
 ## Other corrections ##
