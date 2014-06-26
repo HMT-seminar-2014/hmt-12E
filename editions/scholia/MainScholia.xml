@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Main Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>ed. Eric Dugdale, Kirsten Haijes, James Skoog</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -161,7 +161,20 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.125</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς ἀρήγοντες οὐ γὰρ τὸ <q>κεκληγότες</q> ἐπλεόνασεν τὸ <rs type="waw"
+                                    >ν</rs> οὐδὲ παρα τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.222</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:17.88</ref>
+                                    <q>ὀξεα κεκληγώς</q>
+                                </cit> ἐκλήθη ἀλλα παρα τὸ κέκληγα γέγονεν ὁ ἐνεστῶς κεκλήγω ὠς παρα
+                                τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.120</ref>
+                                    <q>ἄνωγα</q>
+                                </cit> ἀνώγω πέπληγα πεπλήγω ἔνθεν τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:5.504</ref>
+                                    <q>ἐπέπληγον πόδες ἵππων</q>
+                                </cit>· ἀκόλουθος δὲ τῷ κεκλήγω μετοχὴ ἡ κεκλήγων ἔνθεν τὸ
+                                κεκλήγοντες⁑ </p>
 
                         </div>
                     </div>
