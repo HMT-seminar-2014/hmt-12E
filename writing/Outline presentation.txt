@@ -1,17 +1,37 @@
-# Outline presentation #
+# Team E presentation #
+Eric Dugdale, Kirsten Haijes, James Skoog
 
-scholion: urn:cts:greekLit:tlg5026.msA.hmt:12.E2
-ref: urn:cts:greekLit:tlg0012.tlg001.msA:12.106
-image: urn:cite:hmt:vaimg.VA156VN-0658@0.2451,0.2664,0.2021,0.0909
+- folio 156v, line 101 - 125
+- Trojans prepare to attack the Greek ships
+- two grammatical scholia
+- two undefined marks
+
+---
+
+Scholion 12.E2 on line 12.106
+
+!{Look at this scholion!}[1]
 
 λιλῶ ἐστι ῥῆμα, τὸ σημαντικὸν τοῦ προθυμοῦμαι ἐκ τοῦ λῶ διπλασιασθέν· οὗ παράγωγον τὸ λιλαίω λιλαιόμενα χροὸς ἄσαι τοῦ λιλῷ ἀκόλουθος παρακείμενος λελίληκα παθητικὸς λελίλημαι μετοχὴ λελιλημένος. πληθυντικῇ λελιλημένοι· ἐλλείψει τοῦ λελιημένοι. ἡρῳδιανὸς ἐν επιμερισμοῖς
 
-scholion: urn:cts:greekLit:tlg5026.msA.hmt:12.E9
-ref: urn:cts:greekLit:tlg0012.tlg001.msA:12.125
-image: urn:cite:hmt:vaimg.VA156VN-0658@0.2781,0.7274,0.6697,0.0532
+---
+
+Scholion 12.E9 on line 12.125
+
+!{another awesome scholion!}[4]
 
 ὡς ἀρήγοντες οὐ γὰρ τὸ κεκληγότες ἐπλεόνασεν τὸ ν οὐδὲ παρα τὸ ὀξεα κεκληγώς ἐκλήθη ἀλλα παρα τὸ κέκληγα γέγονεν ὁ ἐνεστῶς κεκλήγω ὠς παρα τὸ ἄνωγα ἀνώγω πέπληγα πεπλήγω ἔνθεν τὸ ἐπέπληγον πόδες ἵππων· ἀκόλουθος δὲ τῷ κεκλήγω μετοχὴ ἡ κεκλήγων ἔνθεν τὸ κεκλήγοντες
+
+---
 
 Rocket ship symbol: urn:cite:hmt:vaimg.VA156VN-0658@0.7403,0.2898,0.0334,0.0202
 Rocket ship symbol in context: urn:cite:hmt:vaimg.VA156VN-0658@0.4272,0.2882,0.4739,0.0919
 
+---
+
+[1]: urn:cite:hmt:vaimg.VA156VN-0658@0.2451,0.2664,0.2021,0.0909
+[2]: urn:cts:greekLit:tlg5026.msA.hmt:12.E2
+[3]: urn:cts:greekLit:tlg0012.tlg001.msA:12.106
+[4]: urn:cite:hmt:vaimg.VA156VN-0658@0.2781,0.7274,0.6697,0.0532
+[5]: urn:cts:greekLit:tlg5026.msA.hmt:12.E9
+[6]: urn:cts:greekLit:tlg0012.tlg001.msA:12.125
