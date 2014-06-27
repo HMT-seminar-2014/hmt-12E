@@ -1,4 +1,4 @@
-#Outline presentation#
+# Outline presentation #
 
 scholion: urn:cts:greekLit:tlg5026.msA.hmt:12.E2
 ref: urn:cts:greekLit:tlg0012.tlg001.msA:12.106
