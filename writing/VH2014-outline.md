@@ -40,9 +40,9 @@ The text: !{3.219}[text1]
 The scholion: !{3.219 correction}[scholion1]
 
 Allen goes on to cite numerous additional examples of these double corrections. (In some cases, parts of the image from the 2007 photography of the Venetus A are too faded to read. For such instances, links to the corresponding image in the 1901 facsimile published by Domenico Comparetti are provided.) 
-These include occurrences on 46v ({text}[text2], {scholion}[scholion2]); 61v ({text}[text3], {scholion}[scholion3], {Comparetti's scholion}[Comparettischolion3]);
-66r ({text}[text4], {scholion}[scholion4]); 64r ({text}[text5], {scholion}[scholion5]); 86v ({text}[text6], {scholion}[scholion6], {Comparetti's scholion}[Comparettischolion6]); 106v, an example of the entire second correction surviving ({text}[text7], {scholion}[scholion7]);
-111r ({text}[text8], {scholion}[scholion8], {Comparetti's scholion}[Comparettischolion8]); 202r ([text]{text9}, {scholion}[scholion9]); 224r ({text}[text10], {scholion}[scholion10]); and 259r, where Allen believes the correction was done in two hands ({text}[text11], {scholion}[scholion11]).
+These include occurrences on 46v ({text}[text2], {scholion}[scholion2]); 61v ({text}[text3], {scholion}[scholion3], {Comparetti}[Comparettischolion3]);
+66r ({text}[text4], {scholion}[scholion4]); 64r ({text}[text5], {scholion}[scholion5]); 86v ({text}[text6], {scholion}[scholion6], {Comparetti}[Comparettischolion6]); 106v, an example of the entire second correction surviving ({text}[text7], {scholion}[scholion7]);
+111r ({text}[text8], {scholion}[scholion8], {Comparetti}[Comparettischolion8]); 202r ([text]{text9}, {scholion}[scholion9]); 224r ({text}[text10], {scholion}[scholion10]); and 259r, where Allen believes the correction was done in two hands ({text}[text11], {scholion}[scholion11]).
 These double corrections are characterized by three traits: their positions, the color of the ink, and the style of their handwriting. The second correction in each example is usually on the extreme outer margin, and often reduced to one letter. Allen describes the color of the outer corrections as bright red, while the inner ones are lighter in color.
 The outer notes are usually in a minuscule hand, while the inner ones are in semiuncial.
 
