@@ -1,5 +1,4 @@
-Team E presentation
-===================
+# Team E Presentation #
 
 Eric Dugdale, Kirsten Haijes, James Skoog
 
@@ -8,30 +7,28 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 -   two grammatical scholia
 -   two undefined marks (if time permits...)
 
-* * * * *
+---
 
-Scholion 12.E2 on line 12.106
------------------------------
+## Scholion 12.E2 on line 12.106 ##
 
 !{Look at this
 scholion!}[1]
 
 A lengthy parse. Show this to your Greek 1 students!
 
-* * * * *
+---
 
-Scholion 12.E9 on line 12.125
------------------------------
+## Scholion 12.E9 on line 12.125 ##
 
 !{another awesome
 scholion!}[2]
 
 Another grammatical explanation.
 
-* * * * *
+---
 
-An interesting symbol
----------------------
+## An interesting symbol ##
+
 
 !{look
 closely...}[rocketcontext]
@@ -42,10 +39,10 @@ view}[rocket]
 This symbol may be linked to {this intermarginal
 scholion}[rocketscholion?].
 
-* * * * *
+---
 
-Another interesting symbol
---------------------------
+## Another interesting symbol ##
+
 
 !{looks like angled music
 notes}[anothersymbol]
