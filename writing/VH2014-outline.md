@@ -30,7 +30,31 @@
 (Team E)
 
 
+### Double Corrections ###
 
+
+In his article, Allen describes a series of exterior scholia accompanied by additional graphemes located closer to the edge of the folio than the scholia. These, he believes, are a series of double corrections, which can give the modern scholar valuable insight into the editorial process that went into the making of the Venetus A.
+The first example Allen provides can be seen on folio 46r, correcting line 219 from book 3. 
+The text: !{3.219}[text1]
+
+The scholion: !{3.219 correction}[scholion1]
+
+Allen goes on to cite numerous additional examples of these double corrections. (In some cases, parts of the image from the 2007 photography of the Venetus A are too faded to read. For such instances, links to the corresponding image in the 1901 facsimile published by Domenico Comparetti.) 
+These include occurrences on 46v ({text}[text2], {scholion}[scholion2]); 61v ({text}[text3], {scholion}[scholion3], {scholion as it appears in the Comparetti facsimile of 1901}[Comparettischolion3]);
+66r ({text}[text4], {scholion}[scholion4]); 64r ({text}[text5], {scholion}[scholion5]); 86v ({text}[text6], {scholion}[scholion6], {scholion in Comparetti facsimile}[Comparettischolion6]); 106v, an example of the entire second correction surviving ({text}[text7], {scholion}[scholion7]);
+111r ({text}[text8], {scholion}[scholion8], {scholion in Comparetti facsimile}[Comparettischolion8]); 202r ([text]{text9}, {scholion}[scholion9]); 224r ({text}[text10], {scholion}[scholion10]); and 259r, where Allen believes the correction was done in two hands ({text}[text11], {scholion}[scholion11]).
+These double corrections are characterized by three traits: their positions, the color of the ink, and the style of their handwriting. The second correction in each example is usually on the extreme outer margin, and often reduced to one letter. Allen describes the color of the outer corrections as bright red, while the inner ones are lighter in color.
+The outer notes are usually in a minuscule hand, while the inner ones are in semiuncial.
+
+
+### Dotted Marginal Notes ###
+
+
+Allen next describes a series of exterior scholia with dots above them, such as this example from 27r (misrepresented in Allen's original article as 272).
+The text: !{2.147}[text11]
+
+
+The scholion: !{scholion}[scholion11]
 This is a link to {the correction of 3.219}[scholion1].
 This is !{the correction of 3.219}[scholion1] being embedded.
 
