@@ -39,7 +39,7 @@ The text: !{3.219}[text1]
 
 The scholion: !{3.219 correction}[scholion1]
 
-Allen goes on to cite numerous additional examples of these double corrections. (In some cases, parts of the image from the 2007 photography of the Venetus A are too faded to read. For such instances, links to the corresponding image in the 1901 facsimile published by Domenico Comparetti.) 
+Allen goes on to cite numerous additional examples of these double corrections. (In some cases, parts of the image from the 2007 photography of the Venetus A are too faded to read. For such instances, links to the corresponding image in the 1901 facsimile published by Domenico Comparetti are provided.) 
 These include occurrences on 46v ({text}[text2], {scholion}[scholion2]); 61v ({text}[text3], {scholion}[scholion3], {scholion as it appears in the Comparetti facsimile of 1901}[Comparettischolion3]);
 66r ({text}[text4], {scholion}[scholion4]); 64r ({text}[text5], {scholion}[scholion5]); 86v ({text}[text6], {scholion}[scholion6], {scholion in Comparetti facsimile}[Comparettischolion6]); 106v, an example of the entire second correction surviving ({text}[text7], {scholion}[scholion7]);
 111r ({text}[text8], {scholion}[scholion8], {scholion in Comparetti facsimile}[Comparettischolion8]); 202r ([text]{text9}, {scholion}[scholion9]); 224r ({text}[text10], {scholion}[scholion10]); and 259r, where Allen believes the correction was done in two hands ({text}[text11], {scholion}[scholion11]).
