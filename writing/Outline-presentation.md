@@ -4,16 +4,8 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 
 -   folio 156v, lines 101 - 125
 -   Trojans prepare to attack the Greek ships
--   two grammatical scholia
+-   one grammatical scholion & source
 -   two undefined marks (if time permits...)
-
----
-
-## Scholion 12.E2 on line 12.106 ##
-
-!{Look at this scholion!}[1]
-
-A lengthy parse. Show this to your Greek 1 students!
 
 ---
 
@@ -23,6 +15,9 @@ A lengthy parse. Show this to your Greek 1 students!
 scholion!}[2]
 
 Another grammatical explanation.
+
+---
+
 
 ---
 
@@ -48,7 +43,6 @@ Thoughts?
 
 
 
-[1]: urn:cite:hmt:vaimg.VA156VN-0658@0.2451,0.2664,0.2021,0.0909
 
 [2]: urn:cite:hmt:vaimg.VA156VN-0658@0.2781,0.7274,0.6697,0.0532
 
