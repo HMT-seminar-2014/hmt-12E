@@ -36,6 +36,12 @@ Translation: But the word κεκλήγω, which is followed by the recessive pa
 
 ---
 
+πολὺ δὲ τοιοῦτον ἔθος παρὰ Συρακουσίοις· ὄλωλα ὀλώλω, δέδοικα δεδοίκω καὶ τὸ κέκλυκε δὲ παρ᾽ Ἐπιχάρμῳ ἀπὸ θέματος τοῦ κεκλύκω καὶ εὕρηκε ἀπὸ τοῦ εὑρήκω. (Grammatici Graeci vol. 3.2 (ed. Lentz), 830, 11-13, from Herodian's Peri Katholikhês Prosôdias)
+
+Translation: This custom is common among the Syracusans: ὄλωλα [alongside] ὀλώλω, δέδοικα [alongside] δεδοίκω, and the word κέκλυκε appears in Epicharmus, coming from the base form κεκλύκω, and εὕρηκε from εὑρήκω.
+
+---
+
 ## An interesting symbol ##
 
 
