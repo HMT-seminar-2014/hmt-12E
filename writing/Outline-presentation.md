@@ -19,7 +19,7 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 !{an awesome
 scholion!}[1]
 
-A grammatical explanation: {shouting loudly} in order to help; it is not that the form κεκληγότες has added a nu (ν) nor does it derive from “ὀξεα κεκληγώς (having shouted shrilly),” but alongside the [form] κέκληγα there exists the present κεκλήγω, just as alongside the [form] ἄνωγα [there occurs] ἀνώγω [and alongside] πέπληγα [there occurs] πεπλήγω, whence “ἐπέπληγον πόδες ἵππων (the hooves of the horses struck)” (*Il*. 5.504); and deriving from κεκλήγω is the participle [form] κεκλήγων, from which comes τὸ κεκλήγοντες.
+A grammatical explanation: {ὀξέα κεκλήγοντες, shouting loudly} in order to help; it is not that the form κεκληγότες has added a nu (ν) and comes from “ὀξεα κεκληγώς (having shouted shrilly, i.e. the perfect participle),” but alongside the [form] κέκληγα there exists the present κεκλήγω, just as alongside the [form] ἄνωγα [there occurs] ἀνώγω [and alongside] πέπληγα [there occurs] πεπλήγω, whence “ἐπέπληγον πόδες ἵππων (the hooves of the horses struck)” (*Il*. 5.504); and the participle κεκλήγω comes from the [form] κεκλήγων (i.e. the present participle), whence comes τὸ κεκλήγοντες.
 
 ---
 
@@ -27,7 +27,9 @@ A grammatical explanation: {shouting loudly} in order to help; it is not that th
 
 ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
-Translation: {κεκληγότες} from the Syracusan present κεκλήγω, is accompanied by the recessive participle κεκλήγων.
+Translation: {κεκληγότες, having shouted} from the Syracusan present κεκλήγω, is accompanied by the recessive participle κεκλήγων.
+
+N.B. The reading κεκληγότες, found in the text and lemma of the Townley, conflicts with the content of the scholion, which supports the reading κεκλήγοντες found in the Venetus A.
 
 ---
 
