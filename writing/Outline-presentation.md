@@ -17,6 +17,13 @@ scholion!}[2]
 A grammatical explanation.
 
 ---
+## Scholion on line 12.125 in Townley manuscript##
+
+ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
+
+Translation: {κεκληγότες} from the Syracusan present κεκλήγω, is accompanied by the recessive participle κεκλήγων
+
+---
 
 ## Notes from Aelius Herodianus ##
 
