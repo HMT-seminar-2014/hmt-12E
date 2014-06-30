@@ -25,7 +25,7 @@ scholion!}[1]
 
 ### Scholion on 12.125 in Townley manuscript###
 
-A link to the [Townley manuscript:][Townley]
+A link to the [Townley manuscript.][Townley]
 
 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
