@@ -14,7 +14,7 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 !{another awesome
 scholion!}[2]
 
-Another grammatical explanation.
+A grammatical explanation.
 
 ---
 
