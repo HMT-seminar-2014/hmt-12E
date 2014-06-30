@@ -3,6 +3,10 @@
 
 Eric Dugdale, Kirsten Haijes, James Skoog
 
+---
+
+### Context and Overview ###
+
 -   folio 156v, lines 101 - 125
 -   Trojans prepare to attack the Greek ships
 -   one grammatical scholion & notes by Aelius Herodianus
@@ -12,8 +16,8 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 
 ### Scholion 12.E9 on line 12.125 ###
 
-!{another awesome
-scholion!}[2]
+!{an awesome
+scholion!}[1]
 
 A grammatical explanation.
 
@@ -58,7 +62,7 @@ This symbol may be linked to {this intermarginal scholion}[rocketscholion?].
 
 
 
-[2]: urn:cite:hmt:vaimg.VA156VN-0658@0.2781,0.7274,0.6697,0.0532
+[1]: urn:cite:hmt:vaimg.VA156VN-0658@0.2781,0.7274,0.6697,0.0532
 
 [rocketcontext]:urn:cite:hmt:vaimg.VA156VN-0658@0.4272,0.2882,0.4739,0.0919
 
