@@ -25,6 +25,8 @@ scholion!}[1]
 
 ### Scholion on 12.125 in Townley manuscript###
 
+A link to the [Townley manuscript:][Townley]
+
 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
 Translation: {κεκληγότες, having shouted} the recessive participle κεκλήγων is formed from the Syracusan present κεκλήγω.
@@ -72,5 +74,5 @@ This symbol may be linked to {this intermarginal scholion}[rocketscholion?].
 
 [rocketscholion?]: urn:cite:hmt:vaimg.VA156VN-0658@0.4404,0.2953,0.0661,0.0962
 
-
+[Townley]: http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_86_fs001r
 
