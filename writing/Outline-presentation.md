@@ -38,7 +38,7 @@ N.B. The reading κεκληγότες, found in the text and lemma of the Townl
 ### Notes from Aelius Herodianus ###
 
 τὸ δὲ κεκλήγω, ᾦ ἀκόλουθος μετοχὴ ἡ κεκλήγων βαρυνομένη, ἔνθεν τὸ κεκλήγοντες (M 125) καὶ πεπλήγω, ἔνθεν τὸ "ἐπέπληγον πόδες ἵππων" (Il. E 504) ποιητικῶς βαρύνονται ἀπὸ τῶν παρακειμένων γεγονότα. 
-(*Grammatici Graeci* vol. 3.1 (ed. Lentz), 434, 6-10, from Herodian's *Peri Katholikhês Prosôdias*)
+(*Grammatici Graeci* vol. 3.1 (ed. Lentz), 434, 6-10, from Herodian's *ΠΕΡΙ ΚΑΘΟΛΙΚΗΣ ΠΡΟΣῼΔΙΑΣ*)
 
 
 Translation: But [the form] κεκλήγω, from which comes the recessive participle κεκλήγων, hence κεκλήγοντες  (at *Il.* 12.125), and [the form] πεπλήγω, hence the [quotation] ἐπέπληγον πόδες ἵππων, are recessive in poetry, deriving from the perfect.
@@ -46,7 +46,7 @@ Translation: But [the form] κεκλήγω, from which comes the recessive part
 
 ---
 
-πολὺ δὲ τοιοῦτον ἔθος παρὰ Συρακουσίοις· ὄλωλα ὀλώλω, δέδοικα δεδοίκω καὶ τὸ κέκλυκε δὲ παρ᾽ Ἐπιχάρμῳ ἀπὸ θέματος τοῦ κεκλύκω καὶ εὕρηκε ἀπὸ τοῦ εὑρήκω. (*Grammatici Graeci* vol. 3.2 (ed. Lentz), 830, 11-13, from Herodian's *Peri Katholikhês Prosôdias*)
+πολὺ δὲ τοιοῦτον ἔθος παρὰ Συρακουσίοις· ὄλωλα ὀλώλω, δέδοικα δεδοίκω καὶ τὸ κέκλυκε δὲ παρ᾽ Ἐπιχάρμῳ ἀπὸ θέματος τοῦ κεκλύκω καὶ εὕρηκε ἀπὸ τοῦ εὑρήκω. (*Grammatici Graeci* vol. 3.2 (ed. Lentz), 830, 11-13, from Herodian's *ΠΕΡΙ ΚΑΘΟΛΙΚΗΣ ΠΡΟΣῼΔΙΑΣ*)
 
 Translation: This usage is common among the Syracusans: ὄλωλα [occurs alongside] ὀλώλω, δέδοικα [alongside] δεδοίκω, and the word κέκλυκε appears in Epicharmus, coming from the base form κεκλύκω, and εὕρηκε from εὑρήκω.
 
