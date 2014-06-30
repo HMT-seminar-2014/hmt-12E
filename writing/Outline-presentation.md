@@ -39,14 +39,14 @@ N.B. The reading κεκληγότες, found in the text and lemma of the Townl
 (*Grammatici Graeci* vol. 3.1 (ed. Lentz), 434, 6-10, from Herodian's *Peri Katholikhês Prosôdias*)
 
 
-Translation: But the word κεκλήγω, which is followed by the recessive participle κεκλήγων, hence κεκλήγοντες  (at *Il.* 12.125) and πεπλήγω, hence the [quotation] ἐπέπληγον πόδες ἵππων, are recessive in poetry, deriving from the perfect.
+Translation: But [the form] κεκλήγω, from which comes the recessive participle κεκλήγων, hence κεκλήγοντες  (at *Il.* 12.125), and [the form] πεπλήγω, hence the [quotation] ἐπέπληγον πόδες ἵππων, are recessive in poetry, deriving from the perfect.
 
 
 ---
 
 πολὺ δὲ τοιοῦτον ἔθος παρὰ Συρακουσίοις· ὄλωλα ὀλώλω, δέδοικα δεδοίκω καὶ τὸ κέκλυκε δὲ παρ᾽ Ἐπιχάρμῳ ἀπὸ θέματος τοῦ κεκλύκω καὶ εὕρηκε ἀπὸ τοῦ εὑρήκω. (*Grammatici Graeci* vol. 3.2 (ed. Lentz), 830, 11-13, from Herodian's *Peri Katholikhês Prosôdias*)
 
-Translation: This usage is common among the Syracusans: ὄλωλα [alongside] ὀλώλω, δέδοικα [alongside] δεδοίκω, and the word κέκλυκε appears in Epicharmus, coming from the base form κεκλύκω, and εὕρηκε from εὑρήκω.
+Translation: This usage is common among the Syracusans: ὄλωλα [occurs alongside] ὀλώλω, δέδοικα [alongside] δεδοίκω, and the word κέκλυκε appears in Epicharmus, coming from the base form κεκλύκω, and εὕρηκε from εὑρήκω.
 
 ---
 
