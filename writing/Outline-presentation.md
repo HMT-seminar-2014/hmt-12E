@@ -20,11 +20,11 @@ A grammatical explanation.
 
 ## Notes from Aelius Herodianus ##
 
-τὸ δὲ κεκλήγω, ὦ ἀκόλουθος μετοχὴ ἡ κεκλήγων βαρυνομένη, ἔνθεν τὸ κεκλήγοντες (M 125) καὶ πεπλήγω, ἔνθεν τὸ "ἐπέπληγον πόδες ἵππων" (Il. E 504) ποιητικῶς βαρύνονται ἀπὸ τῶν παρακειμένων γεγονότα. 
+τὸ δὲ κεκλήγω, ᾦ ἀκόλουθος μετοχὴ ἡ κεκλήγων βαρυνομένη, ἔνθεν τὸ κεκλήγοντες (M 125) καὶ πεπλήγω, ἔνθεν τὸ "ἐπέπληγον πόδες ἵππων" (Il. E 504) ποιητικῶς βαρύνονται ἀπὸ τῶν παρακειμένων γεγονότα. 
 (Grammatici Graeci vol. 3.1 (ed. Lentz), 434, 6-10, from Herodian's Peri Katholikhês Prosôdias)
 
 
-Translation: But the word κεκλήγω, which is followed by the recessive participle κεκλήγων, hence κεκλήγοντες  (at Il. 12.125) and πεπλήγω, hence the [quotation] ἐπέπληγον πόδες ἵππων, are recessive in poetry, deriving from the perfect.
+Translation: But the word κεκλήγω, which is followed by the recessive participle κεκλήγων, hence κεκλήγοντες  (at *Il.* 12.125) and πεπλήγω, hence the [quotation] ἐπέπληγον πόδες ἵππων, are recessive in poetry, deriving from the perfect.
 
 
 ---
