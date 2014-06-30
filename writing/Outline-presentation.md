@@ -19,7 +19,7 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 !{an awesome
 scholion!}[1]
 
-{ὀξέα κεκλήγοντες, shouting loudly} in order to help; it is not that the form κεκληγότες has added a nu (ν) and comes from “ὀξεα κεκληγώς (having shouted shrilly, i.e. the perfect participle),” but alongside the [form] κέκληγα there exists the present κεκλήγω, just as alongside the [form] ἄνωγα [there occurs] ἀνώγω [and alongside] πέπληγα [there occurs] πεπλήγω, whence “ἐπέπληγον πόδες ἵππων (the hooves of the horses struck)” (*Il*. 5.504); and the participle κεκλήγω comes from the [form] κεκλήγων (i.e. the present participle), whence comes τὸ κεκλήγοντες.
+{ὀξέα κεκλήγοντες, shouting loudly} in order to help; it is not that the form κεκληγότες has added a nu (ν) and comes from “ὀξεα κεκληγώς (having shouted shrilly, i.e. the perfect participle),” but alongside the [form] κέκληγα there exists the present κεκλήγω, just as alongside the [form] ἄνωγα [there occurs] ἀνώγω [and alongside] πέπληγα [there occurs] πεπλήγω, whence “ἐπέπληγον πόδες ἵππων (the hooves of the horses struck)” (*Il*. 5.504); and the participle κεκλήγων comes from the [form] κεκλήγω (i.e. the present participle), whence comes τὸ κεκλήγοντες.
 
 ---
 
