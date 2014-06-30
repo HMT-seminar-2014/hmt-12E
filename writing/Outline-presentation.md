@@ -10,7 +10,7 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 
 ---
 
-## Scholion 12.E9 on line 12.125 ##
+### Scholion 12.E9 on line 12.125 ###
 
 !{another awesome
 scholion!}[2]
@@ -19,7 +19,7 @@ A grammatical explanation.
 
 ---
 
-## Scholion on line 12.125 in Townley manuscript##
+### Scholion on line 12.125 in Townley manuscript###
 
 ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
@@ -27,7 +27,7 @@ Translation: {κεκληγότες} from the Syracusan present κεκλήγω,
 
 ---
 
-## Notes from Aelius Herodianus ##
+### Notes from Aelius Herodianus ###
 
 τὸ δὲ κεκλήγω, ᾦ ἀκόλουθος μετοχὴ ἡ κεκλήγων βαρυνομένη, ἔνθεν τὸ κεκλήγοντες (M 125) καὶ πεπλήγω, ἔνθεν τὸ "ἐπέπληγον πόδες ἵππων" (Il. E 504) ποιητικῶς βαρύνονται ἀπὸ τῶν παρακειμένων γεγονότα. 
 (*Grammatici Graeci* vol. 3.1 (ed. Lentz), 434, 6-10, from Herodian's *Peri Katholikhês Prosôdias*)
@@ -44,7 +44,7 @@ Translation: This custom is common among the Syracusans: ὄλωλα [alongside]
 
 ---
 
-## An interesting symbol ##
+### An interesting symbol ###
 
 
 !{look closely...}[rocketcontext]
