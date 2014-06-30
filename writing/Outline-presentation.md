@@ -27,7 +27,7 @@ A grammatical explanation: {ὀξέα κεκλήγοντες, shouting loudly}
 
 ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
-Translation: {κεκληγότες, having shouted} from the Syracusan present κεκλήγω, is accompanied by the recessive participle κεκλήγων.
+Translation: {κεκληγότες, having shouted} the recessive participle κεκλήγων is formed from the Syracusan present κεκλήγω.
 
 N.B. The reading κεκληγότες, found in the text and lemma of the Townley, conflicts with the content of the scholion, which supports the reading κεκλήγοντες found in the Venetus A.
 
