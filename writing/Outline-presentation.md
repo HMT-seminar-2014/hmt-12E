@@ -1,4 +1,4 @@
-# The Syracusan Present # 
+# The Syracusan Present #
 ##Evidence of the Influence of Herodian in Homeric Scholia ##
 
 Eric Dugdale, Kirsten Haijes, James Skoog
