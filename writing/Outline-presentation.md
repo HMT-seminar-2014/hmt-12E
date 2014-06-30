@@ -7,14 +7,14 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 
 ### Context and Overview ###
 
--   folio 156v, lines 101 - 125
+-   folio 156v, Book 12 lines 101 - 125
 -   Trojans prepare to attack the Greek ships
 -   one grammatical scholion & notes by Aelius Herodianus
 -   an interesting marking (if time permits...)
 
 ---
 
-### Scholion 12.E9 on line 12.125 ###
+### Scholion 12.E9 on 12.125 ###
 
 !{an awesome
 scholion!}[1]
@@ -23,7 +23,7 @@ A grammatical explanation: {ὀξέα κεκλήγοντες, shouting loudly}
 
 ---
 
-### Scholion on line 12.125 in Townley manuscript###
+### Scholion on 12.125 in Townley manuscript###
 
 ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
 
