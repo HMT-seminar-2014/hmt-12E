@@ -4,7 +4,7 @@ Eric Dugdale, Kirsten Haijes, James Skoog
 
 -   folio 156v, lines 101 - 125
 -   Trojans prepare to attack the Greek ships
--   one grammatical scholion & source
+-   one grammatical scholion & notes by Aelius Herodianus
 -   two undefined marks (if time permits...)
 
 ---
