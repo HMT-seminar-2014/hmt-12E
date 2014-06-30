@@ -1,11 +1,12 @@
-# Team E Presentation #
+# The Syracusan Present # 
+##Evidence of the Influence of Herodian in Homeric Scholia ##
 
 Eric Dugdale, Kirsten Haijes, James Skoog
 
 -   folio 156v, lines 101 - 125
 -   Trojans prepare to attack the Greek ships
 -   one grammatical scholion & notes by Aelius Herodianus
--   two undefined marks (if time permits...)
+-   an interesting marking (if time permits...)
 
 ---
 
@@ -17,6 +18,7 @@ scholion!}[2]
 A grammatical explanation.
 
 ---
+
 ## Scholion on line 12.125 in Townley manuscript##
 
 ad 12. 125 {κεκληγότες} ἀπὸ τοῦ κεκλήγω Συρακουσίου ἐνεστῶτος ἀκόλουθος μετοχὴ κεκλήγων βαρυνομένη. T
