@@ -52,10 +52,10 @@ The outer notes are usually in a minuscule hand, while the inner ones are in sem
 
 
 Allen next describes a series of exterior scholia with dots above them, such as this example from 27r (misrepresented in Allen's original article as 272).
-The text: !{2.147}[text11]
+The text: !{2.147}[text12]
 
 
-The scholion: !{scholion}[scholion11]
+The scholion: !{scholion}[scholion12]
 
 Further examples include 66v ({text}[text13], {scholion}[scholion13]); 67r ({text}[text14], {scholion}[scholion14]); 80r, which appears to be an example of a late correction in the text ({text}[text15], {scholion}[scholion15]); 85r ({text}[text16], {scholion}[scholion16], {Comparetti}[Comparettischolion16]); 87r ({text}[text17], {scholion}[scholion17]); 89v, an example where the scholion is too faded to read in the '07 photography ({text}[text18], {Comparetti}[Comparettischolion18]), 90r, another such example ({text}[text19], {Comparetti}[Comparettischolion19]); 93v ({text}[text20], {Comparetti}[Comparettischolion20]), 95r, which Allen mistakenly labels as 94r ({text}[text21], {scholion}[scholion21]); and a particularly decisive case found on 273r, which Allen erroneously labels as 273v ({text}[text22], {scholion}[scholion22], {Comparetti}[Comparettischolion22]). In this last example, it appears that at first the entire correction was deleted, but then the deletion was erased except where it concerned δολιχέγχεας.
 It seems obvious that the dotted notes were intended to be cancelled, as such dots consistently indicated the intent to delete the words over which they were placed in manuscripts. Yet in the Venetus A, many corrections with dots survive. Allen suggests that the corrections in the exterior margins were entered by one reviser and reviewed by a second. When the second reviser disagreed with the correction made by the first, he would either mark the correction for deletion or add his own correction outside the first one. These corrections in the extreme outer margins were intended to supersede the earlier corrections in the exterior; as such, no deletion was necessary. As such, it appears that the Venetus A underwent a double revision, either by one scribe double-checking his work or by two separate scribes. Allen believes that the second scenario, with two editors, is the more likely case. Now that the dots can be assigned to the second corrector, we can examine a few instances of corrections being cancelled.
