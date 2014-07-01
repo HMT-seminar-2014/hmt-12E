@@ -63,7 +63,7 @@ The correction: !{2.461}[text23]
 There are somewhat similar occurrences at {6.170 on 83v}[text24] ({its accompanying scholion}[scholion24]), and {1.124 on 14v}[text25] (no exterior correction).
 The nature and source of these corrections is further clarified by a few explicit statements, such as this one at 18.377 on 246r:
 !{scholion}[scholion26]
-This scholion accompanies {the text of the line}[text26]. It appears that the reviser, in this instance, disagrees with a previous corrector. There is a similar occurrence at {18.490 on 248v}[text27], where the reviser agrees with the original reading and disagrees with {the correction}[scholion27] ({a clearer image}[Comparettischolion27]). This seems to indicate that the reviser is comparin the line as it appears in the Venetus A with an "archetype." This type of appeal occurs once more at 24.588, where the line is marked with a crescent.
+This scholion accompanies {the text of the line}[text26]. It appears that the reviser, in this instance, disagrees with a previous corrector. There is a similar occurrence at {18.490 on 248v}[text27], where the reviser agrees with the original reading and disagrees with {the correction}[scholion27] ({a clearer image}[Comparettischolion27]). This seems to indicate that the reviser is comparing the line as it appears in the Venetus A with an "archetype." This type of appeal occurs once more at 24.588, where the line is marked with a crescent.
 The text: !{text}[text28]
 The scholion: !{scholion}[scholion28]
 A clearer image of the scholion: !{scholion}[Comparettischolion28]
