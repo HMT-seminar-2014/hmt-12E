@@ -55,8 +55,6 @@ The text: !{2.147}[text11]
 
 
 The scholion: !{scholion}[scholion11]
-This is a link to {the correction of 3.219}[scholion1].
-This is !{the correction of 3.219}[scholion1] being embedded.
 
 [text1]: urn:cite:hmt:vaimg.VA046RN-0047@0.3554,0.5485,0.0671,0.024
 [scholion1]: urn:cite:hmt:vaimg.VA046RN-0047@0.7798,0.556,0.0861,0.0203
