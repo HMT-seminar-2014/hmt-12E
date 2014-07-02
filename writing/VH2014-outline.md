@@ -34,7 +34,8 @@
 
 
 In his article, Allen describes a series of exterior scholia accompanied by additional graphemes located closer to the edge of the folio than the scholia. These, he believes, are a series of double corrections, which can give the modern scholar valuable insight into the editorial process that went into the making of the Venetus A.
-The first example Allen provides can be seen on folio 46r, correcting line 219 from book 3. 
+The first example Allen provides can be seen on folio 46r, correcting line 219 from book 3 (ἀΐδρεϊ). 
+
 The text: !{3.219}[text1]
 
 The scholion: !{3.219 correction}[scholion1]
@@ -51,10 +52,29 @@ The outer notes are usually in a minuscule hand, while the inner ones are in sem
 
 
 Allen next describes a series of exterior scholia with dots above them, such as this example from 27r (misrepresented in Allen's original article as 272).
-The text: !{2.147}[text11]
+The text: !{2.147}[text12]
 
 
-The scholion: !{scholion}[scholion11]
+The scholion: !{scholion}[scholion12]
+
+Further examples include 66v ({text}[text13], {scholion}[scholion13]); 67r ({text}[text14], {scholion}[scholion14]); 80r, which appears to be an example of a late correction in the text ({text}[text15], {scholion}[scholion15]); 85r ({text}[text16], {scholion}[scholion16], {Comparetti}[Comparettischolion16]); 87r ({text}[text17], {scholion}[scholion17]); 89v, an example where the scholion is too faded to read in the '07 photography ({text}[text18], {Comparetti}[Comparettischolion18]), 90r, another such example ({text}[text19], {Comparetti}[Comparettischolion19]); 93v ({text}[text20], {Comparetti}[Comparettischolion20]), 95r, which Allen mistakenly labels as 94r ({text}[text21], {scholion}[scholion21]); and a particularly decisive case found on 273r, which Allen erroneously labels as 273v ({text}[text22], {scholion}[scholion22], {Comparetti}[Comparettischolion22]). In this last example, it appears that at first the entire correction was deleted, but then the deletion was erased except where it concerned δολιχέγχεας.
+It seems obvious that the dotted notes were intended to be cancelled, as such dots consistently indicated the intent to delete the words over which they were placed in manuscripts. Yet in the Venetus A, many corrections with dots survive. Allen suggests that the corrections in the exterior margins were entered by one reviser and reviewed by a second. When the second reviser disagreed with the correction made by the first, he would either mark the correction for deletion or add his own correction outside the first one. These corrections in the extreme outer margins were intended to supersede the earlier corrections in the exterior; as such, no deletion was necessary. As such, it appears that the Venetus A underwent a double revision, either by one scribe double-checking his work or by two separate scribes. Allen believes that the second scenario, with two editors, is the more likely case. Now that the dots can be assigned to the second corrector, we can examine a few instances of corrections being cancelled.
+On folio 33r, for example, the reviser disagrees with a correction in the text. (NB: there is no accompanying exterior scholion/correction for this example.) 
+
+The correction: !{2.461}[text23]
+
+There are somewhat similar occurrences at {6.170 on 83v}[text24] ({its accompanying scholion}[scholion24]), and {1.124 on 14v}[text25] (no exterior correction).
+The nature and source of these corrections is further clarified by a few explicit statements, such as this one at 18.377 on 246r:
+
+!{scholion}[scholion26]
+
+This scholion accompanies {the text of the line}[text26]. It appears that the reviser, in this instance, disagrees with a previous corrector. There is a similar occurrence at {18.490 on 248v}[text27], where the reviser agrees with the original reading and disagrees with {the correction}[scholion27] ({a clearer image}[Comparettischolion27]). This seems to indicate that the reviser is comparing the line as it appears in the Venetus A with an "archetype." This type of appeal occurs once more at 24.588, where the line is marked with a crescent.
+
+The text: !{text}[text28]
+
+The scholion: !{scholion}[scholion28]
+
+A clearer image of the scholion: !{scholion}[Comparettischolion28]
 
 [text1]: urn:cite:hmt:vaimg.VA046RN-0047@0.3554,0.5485,0.0671,0.024
 [scholion1]: urn:cite:hmt:vaimg.VA046RN-0047@0.7798,0.556,0.0861,0.0203
