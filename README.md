@@ -6,12 +6,12 @@ Team E: CHS office 11
 Initial editing assignment: Venetus A, folio 156 verso.
 Second editing assignment: Venetus A, folio 157 verso.
 
-Done:
+Done (folio 157v)
 - visual inventory of Iliad lines
 - visual inventory of all scholia
 - XML editing of intermarginal scholia
 
-To do:
+To do (folio 157v)
 - XML editing of main scholia
 - XML editing of interlinear scholia
 - XML editing of exterior scholia
